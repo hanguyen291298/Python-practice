@@ -1,0 +1,1 @@
+HIGHEST_SCORE = 8
